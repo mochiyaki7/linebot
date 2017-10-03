@@ -25,7 +25,7 @@ SECRET_KEY = 'nc=v&8x1_*t(stej79nls0uuf+y3#h@=a75j6ooviml=f=^e_3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.33.10', 'localhost', 'mochi-osomatsu']
+ALLOWED_HOSTS = ['192.168.33.10', 'localhost', 'mochi-osomatsu.herokuapp.com']
 
 
 # Application definition
