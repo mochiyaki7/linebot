@@ -21,7 +21,7 @@ HEADER = {
 }
 
 
-def index_page(request):
+def index(request):
     return HttpResponse('This is urls test.')
 
 def callback(request):
